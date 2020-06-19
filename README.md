@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Wanderlist is a single-page to-do application that features a fluid user interface that by using JavaScript allows users to rapidly add dynamic content and check off content as accomplished. You can access the Wanderlist application here https://wanderlists-tia-stutson.herokuapp.com ! Try it out! 
 
-Things you may want to cover:
+Wanderlist refreshes at its user's convenience and clears its fields so that users can start a new list on their own. My vision of a digital notepad that saves the planet!
 
-* Ruby version
 
-* System dependencies
+* Ruby version '2.5.3'
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* System dependencies This application uses postgresql as the database for Active Record.
